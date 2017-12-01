@@ -4,33 +4,37 @@
 
 int main (void)
 {
-franz er grim
-  switch(int Sprog)
+  int Sprog;
+  
+  
+  scanf("%d", &Sprog);
+
+  switch(Sprog)
   {
     Case 1:
-     Funktion(1);
+     Introduction(1);
       Break;
     
    Case 2:
-      Funktion(2);
+      Introduction(2);
       Break;
     
     Case 3:
-      Funktion(3);
+      Introduction(3);
       Break;
 
   Case 4:
-      Funktion(4);
+      Introduction(4);
       Break;
     
    Case 5:
-      Funktion(5);
+      Introduction(5);
       Break;
     
   }
 }
 
-void Funktion(int Sprog)
+void Introduction(int Sprog)
 {
   if (Sprog == 1)
   {
