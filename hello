@@ -1,3 +1,36 @@
 #include <stdio.h>
 
 int main (void)
+{
+  switch(int Sprog)
+  {
+    Case 1:
+     Funktion(1);
+      Break;
+    
+   Case 2:
+      Funktion(2);
+      Break;
+    
+    Case 3:
+      Funktion(3);
+      Break;
+
+  Case 4:
+      Funktion(4);
+      Break;
+    
+   Case 5:
+      Funktion(5);
+      Break;
+    
+  }
+}
+
+void Funktion(int Sprog)
+{
+  if (Sprog == 1)
+  {
+    
+  }
+}
