@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//åben filer i anden mappe: fopen("/folder/file.txt","r");
+
 int main (void)
 {
 franz er grim
