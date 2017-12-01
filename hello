@@ -2,6 +2,7 @@
 
 int main (void)
 {
+du grim
   switch(int Sprog)
   {
     Case 1:
@@ -31,6 +32,6 @@ void Funktion(int Sprog)
 {
   if (Sprog == 1)
   {
-    
+    fopen
   }
 }
